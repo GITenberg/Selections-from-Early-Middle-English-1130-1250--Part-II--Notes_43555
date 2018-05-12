@@ -1,0 +1,25 @@
+_repo: Selections-from-Early-Middle-English-1130-1250--Part-II--Notes_43555
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Hall, Joseph
+    birthdate: 1854
+    gutenberg_agent_id: '31986'
+    url: http://www.gutenberg.org/2009/agents/31986
+description: ''
+gutenberg_issued: '2013-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature -- Middle English, 1100-1500'
+title: 'Selections from Early Middle English, 1130-1250. Part 2: Notes'
+url: http://www.gutenberg.org/ebooks/43555
